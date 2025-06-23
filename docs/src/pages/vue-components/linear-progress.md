@@ -1,3 +1,4 @@
+[Uploading WAN-IFRAnewspaper26v5.icc…]()
 ---
 title: Linear Progress
 desc: The QLinearProgress Vue component displays a colored loading bar. The bar can either have a determinate progress or an indeterminate animation.
